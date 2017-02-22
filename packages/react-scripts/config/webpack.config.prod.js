@@ -124,8 +124,8 @@ module.exports = {
           options: {
             // TODO: consider separate config for production,
             // e.g. to enable no-console and no-debugger only in production.
-            configFile: path.join(__dirname, '../.eslintrc'),
-            useEslintrc: false
+            //configFile: path.join(__dirname, '../.eslintrc'),
+            useEslintrc: true
           },
           // @remove-on-eject-end
           loader: 'eslint-loader'
