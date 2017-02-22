@@ -1,7 +1,7 @@
 # Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
 
 ## This is a fork for experimentation with the react-scripts package
-
+* [Fork User Guide] (https://github.com/tmcf/create-react-app/blob/master/packages/react-scripts/FORK_README.md)
 
 Create React apps with no build configuration.
 
