@@ -4,7 +4,8 @@ Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/tmcf/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Fork Features
-You can find out about the specific features of the errigal751 fork [here](FORK_README.md)
+You can find out about the specific features of the errigal751 fork [here] (https://github.com/tmcf/create-react-app/blob/master/packages/react-scripts/FORK_README.md).
+
 
 ## Table of Contents
 
